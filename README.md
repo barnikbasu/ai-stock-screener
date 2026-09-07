@@ -247,11 +247,8 @@ This keeps the application:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-stock-screener.git
+git clone https://github.com/barnikbasu/ai-stock-screener.git
 cd ai-stock-screener
-```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ---
 
